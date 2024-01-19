@@ -1,8 +1,12 @@
+<h1>Creating a Virtual Machine in Azure</h1>
+
+<br />
+
 <h2>Prerequisites</h2>
 
 - Microsoft Azure account ([azure.microsoft.com](azure.microsoft.com))
 
-<h2>Creating A Virtual Machine in Azure</h2>
+<h2>Creating the Virtual Machine</h2>
 
 Go to the Azure portal and navigate to your virtual machines. One way to do this is to locate the search bar at the top of the page and simply type in "virtual machines".
 
