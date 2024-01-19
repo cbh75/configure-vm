@@ -6,6 +6,8 @@
 
 - Microsoft Azure account ([azure.microsoft.com](azure.microsoft.com))
 
+<br />
+
 <h2>Creating the Virtual Machine</h2>
 
 Go to the Azure portal and navigate to your virtual machines. One way to do this is to locate the search bar at the top of the page and simply type in "virtual machines".
