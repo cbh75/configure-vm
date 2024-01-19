@@ -1,4 +1,4 @@
-<h1>Creating a Virtual Machine in Azure</h1>
+<h1>Creating and Connecting to a Virtual Machine in Azure</h1>
 
 <br />
 
