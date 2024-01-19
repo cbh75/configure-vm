@@ -28,7 +28,7 @@ After clicking on **Virtual Machines** in the search bar, you will be taken to y
 
 <p>On the next page, scroll down to <b>Instance Details</b>. <br />
 For the virtual machine name, you can call it whatever you want, but for simplicity sake we'll call it <b>vm-osTicket</b>. <br />
-For image, select <b>Windows 11</b>. <br />
+For image, we'll be using <b>Windows 11</b>. <br />
 The size of the machine doesn't matter too much, but you generally want <b>4 GB</b> of RAM or larger.</p>
 
 <p>Next, scroll down to <b>Administrator Account</b>. Pick any username you want, along with a password.<br />
